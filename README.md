@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff88,100:0d1117&height=200&section=header&text=Omm%20Debasish&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Builder%20%E2%80%A2%20Open-Source%20Enthusiast&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff88,100:0d1117&height=200&section=header&text=Om%20Debasish&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Builder%20%E2%80%A2%20Open-Source%20Enthusiast&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -27,7 +27,7 @@
 
 ```typescript
 const omm = {
-  name:       "Omm Debasish",
+  name:       "Om Debasish",
   role:       "Software Engineer & Builder",
   education:  "B.Tech CSE (Data Science) @ GEC Bhubaneswar — Sem IV",
   location:   "Bhubaneswar, India 🇮🇳",
@@ -56,32 +56,33 @@ const omm = {
 <tr>
 <td width="50%">
 
-### ⚡ Scalable Backend Services
-Resilient APIs with Node.js, Express & FastAPI — built for performance, security, and observability from day one.
+### ⚡ Backend Development
+Build REST APIs using Node.js & Express with clean structure and efficient data flow.
 
 </td>
 <td width="50%">
 
-### 🎨 Clean Frontend Experiences
-Component-driven React & Next.js UIs with Tailwind CSS. Responsive, accessible, and fast.
+### 🎨 Frontend Applications
+Develop responsive UIs using React, Next.js & Tailwind CSS with focus on usability.
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🔧 CI/CD & Automation
-End-to-end pipelines with GitHub Actions, Docker & Kubernetes. Code to production — reliable and repeatable.
+### 🔧 Full-Stack Projects
+Create end-to-end applications integrating frontend, backend, and APIs (including OpenAI).
 
 </td>
 <td width="50%">
 
-### 🤝 Open Source & Mentoring
-Publishing libraries, writing about engineering, collaborating globally. Learning in public, always.
+### 🤝 Collaboration & Learning
+Contribute to projects, participate in hackathons, and continuously improve through hands-on building.
 
 </td>
 </tr>
 </table>
+
 
 ---
 
@@ -99,6 +100,9 @@ Publishing libraries, writing about engineering, collaborating globally. Learnin
 
 **Frontend**
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -114,20 +118,15 @@ Publishing libraries, writing about engineering, collaborating globally. Learnin
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-**Cloud & DevOps**
+**DevOps & Tools**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
-**Testing**
-
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 
 </div>
 
@@ -162,11 +161,11 @@ Publishing libraries, writing about engineering, collaborating globally. Learnin
 ### 🧠 Dynamic Resume & Cover Letter Generator
 > AI-powered ATS-friendly resume builder with intelligent suggestions and modern formatting.
 
-- 🔷 Modular, scalable architecture built for real-world professional workflows
-- 🔷 AI-driven content suggestions tailored per job role
-- 🔷 Clean, customizable output with modern formatting standards
+- 🔷 Built a full-stack web app that generates tailored resumes and cover letters using AI-driven prompt engineering
+- 🔷 Integrated OpenAI API for dynamic, context-aware content generation with responsive UI
+- 🔷 Added PDF download functionality, improving end-user accessibility and tool practicality
 
-**Stack:** `React` `Node.js` `AI/ML` `REST API`
+**Stack:** `React` `Node.js` `OpenAI API` `Tailwind CSS`
 &nbsp;→ [View Repo](https://github.com/Omm579/Dynamic-Resume-and-Cover-Letter-Generator)
 
 ---
@@ -174,11 +173,11 @@ Publishing libraries, writing about engineering, collaborating globally. Learnin
 ### 📈 Gold Price AI
 > ML-based platform predicting gold prices with data analysis and predictive modeling.
 
-- 🔷 End-to-end data preprocessing & feature engineering pipeline
-- 🔷 Model evaluation with performance tuning
-- 🔷 Clear, interactive visualization of predictions
+- 🔷 Developed a dynamic web application that fetches and visualises real-time gold price data via third-party APIs
+- 🔷 Architected a clean frontend–backend separation with Express.js ensuring efficient data flow
+- 🔷 Engineered scalable, responsive design to deliver an intuitive and accurate user experience
 
-**Stack:** `Python` `Scikit-learn` `Pandas` `Matplotlib`
+**Stack:** `React` `Node.js` `Express.js` `Tailwind CSS` `Third-party APIs`
 &nbsp;→ [View Repo](https://github.com/Omm579/GoldPrice-AI)
 
 ---
@@ -231,11 +230,14 @@ Publishing libraries, writing about engineering, collaborating globally. Learnin
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Omm579&theme=darkhub&no-frame=true&column=7&margin-w=8&title_color=00ff88" />
+🥇 **1st Prize — Intra College Hackathon (2026)**  
+🥇 **1st Prize — Coding Contest (2025)**  
+🥇 **1st Prize — Sketching Competition (2026)**  
+🥈 **2nd Prize — Pencil Art Competition (2025)**  
 
 </div>
 
